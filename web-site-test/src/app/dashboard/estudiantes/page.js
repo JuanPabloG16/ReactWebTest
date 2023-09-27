@@ -1,0 +1,22 @@
+export default function Estudiantes(){
+    return(
+        <main>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Cod</th>
+                        <th>Nombre</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Prueba</td>
+                        <td>------</td>
+                    </tr>
+                </tbody>
+            </table>
+        </main>
+    );
+}
